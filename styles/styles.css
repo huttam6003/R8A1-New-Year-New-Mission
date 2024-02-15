@@ -123,7 +123,7 @@
 /* Subscribe section styles  */
 .subscribe {
   background-color: rgb(244, 214, 219);
-  padding: 100px 200px;
+  padding: 80px 200px;
   text-align: center;
 }
 
@@ -148,5 +148,40 @@
   border: none;
   border-radius: 0 30px 30px 0;
   padding: 10px 20px;
+  font-size: 25px;
+}
+
+/* Footer section styles  */
+.footer {
+  padding: 100px 10%;
+  background-color: black;
+  color: white;
+  margin-top: 200px;
+}
+
+hr {
+  margin: 50px 0;
+}
+
+.f-text {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 200px;
+}
+
+.f-text p {
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.f-img {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.f-footer {
+  display: flex;
+  justify-content: space-between;
   font-size: 25px;
 }
