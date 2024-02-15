@@ -85,10 +85,45 @@
   margin: 30px 0;
 }
 
+/* Comming Soon section styles  */
+.comming-soon-con {
+  width: 80%;
+  margin: 100px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+}
+
+.comming-soon-con h3 {
+  font-size: 25px;
+}
+
+.comming-soon-con h1 {
+  color: black;
+  margin: 30px 0;
+}
+
+
+.comming-soon-con-img {
+  padding: 50px;
+  border: 10px solid red;
+  border-radius: 50%;
+}
+
+.comming-soon-con-img img {
+  width: 100%;
+}
+
+.text-m {
+  margin: 20px 0 30px 0;
+}
+
 /* Portfolio Section styles  */
 .portfolio-con {
   width: 80%;
-  margin: 50px auto;
+  margin: 30px auto;
 }
 
 .portfolio {
