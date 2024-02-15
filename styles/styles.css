@@ -119,3 +119,34 @@
 .portfolio-img img:hover {
   border: 3px solid lightcoral;
 }
+
+/* Subscribe section styles  */
+.subscribe {
+  background-color: rgb(244, 214, 219);
+  padding: 100px 200px;
+  text-align: center;
+}
+
+.subscribe h1 {
+  color: black;
+}
+
+.subscribe p {
+  margin: 30px 0 50px 0;
+}
+
+.email {
+  border: none;
+  border-radius: 30px 0 0 30px;
+  padding: 10px 50px;
+  font-size: 25px;
+}
+
+.btn {
+  color: white;
+  background-color: red;
+  border: none;
+  border-radius: 0 30px 30px 0;
+  padding: 10px 20px;
+  font-size: 25px;
+}
