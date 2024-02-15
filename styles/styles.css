@@ -84,3 +84,38 @@
   color: aliceblue;
   margin: 30px 0;
 }
+
+/* Portfolio Section styles  */
+.portfolio-con {
+  width: 80%;
+  margin: 50px auto;
+}
+
+.portfolio {
+  margin: 150px 0;
+}
+
+.portfolio-text {
+  width: 75%;
+  margin-bottom: 50px;
+}
+
+.portfolio-text h1 {
+  color: black;
+  margin: 30px 0;
+}
+
+.portfolio-img {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.portfolio-img img {
+  width: 30%;
+  border-radius: 20px;
+}
+
+.portfolio-img img:hover {
+  border: 3px solid lightcoral;
+}
