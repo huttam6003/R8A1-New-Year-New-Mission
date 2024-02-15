@@ -63,3 +63,24 @@
   font-size: 25px;
   margin: 30px 0 10px 0;
 }
+
+/* Welcome section styles  */
+.welcome {
+  background-image: url("../image/Vectorrr.png");
+  background-repeat: no-repeat;
+  padding: 50px 10%;
+  border-radius: 20px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.welcome-text {
+  width: 50%;
+}
+
+.welcome-text p {
+  color: aliceblue;
+  margin: 30px 0;
+}
