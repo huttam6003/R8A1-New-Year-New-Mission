@@ -159,6 +159,7 @@
 /* Subscribe section styles  */
 .subscribe {
   background-color: rgb(244, 214, 219);
+  border-radius: 20px;
   padding: 80px 200px;
   text-align: center;
 }
