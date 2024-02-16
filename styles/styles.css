@@ -60,6 +60,7 @@
 }
 
 .off-text p {
+  color: orangered;
   font-size: 25px;
   margin: 30px 0 10px 0;
 }
@@ -207,6 +208,17 @@ hr {
 .f-text p {
   font-size: 25px;
   margin-top: 20px;
+}
+
+.f-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.f-icon img {
+  margin-right: 10px;
 }
 
 .f-img {
